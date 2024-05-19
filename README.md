@@ -1,5 +1,6 @@
 # Kaggle-London-Bike-prediction
 
+23.04.20 ~ 23.04.27
 
 데이터셋 : https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
 
